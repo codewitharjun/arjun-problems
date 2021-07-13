@@ -46,13 +46,10 @@ nav {
     width: 840px;
     display: flex;
     justify-content: space-between;
-    line-height: 94px;
-    margin: 0 auto;
 }
 
 .nav-left, .right-nav {
     display: flex;
-    align-items: center;
 }
 
 .nav-left img, .nav-user-img {
